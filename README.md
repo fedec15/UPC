@@ -1,7 +1,7 @@
 # Sistema de gestión de alumnos - UPC
 ## Características:
 
-⋅⋅* Sistema de gestión de alumnos - UPC
+* Sistema de gestión de alumnos - UPC
 ⋅⋅* Versión 1.0 
 ⋅⋅* Desarrollado por Federico Castellano 
 ⋅⋅* fedec15@gmail.com 
